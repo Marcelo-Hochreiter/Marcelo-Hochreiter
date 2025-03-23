@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-💻 I'm Marcelo , a Computer Science student from Brazil.<br><br>-🎓I'm curretly studying Computer Science at Universidade Federal de Minas Gerais (UFMG).<br><br>-🎯 My goal is to specialize in data science applied to sport, Machine Learning and AI.</p>
+<p align="left">-💻 I'm Marcelo , a Computer Science student from Brazil.<br><br>-🎓I'm curretly studying Computer Science at Universidade Federal de Minas Gerais (UFMG).<br><br>-🎯 My goal is to specialize in data science, Machine Learning and AI.</p>
 
 ###
 
